@@ -41,7 +41,7 @@ Since the “Landings Page” story was too large with an estimate of 20 story p
 
 **July 4, 2018**
 <br/>We held a physical Daily Scrum at 10 am time-boxed to 15 minutes, facilitated by our Scrum Master, Simon.
-[INSERT PICTURE FROM DAILY SCRUM HERE]
+<br/>![Daily Scrum Picture](https://github.com/cscis71ateam/crossroads/blob/master/media/Daily%20Scrum%20at%20COOP.png)
 
 
 **The whole Scrum Team**
