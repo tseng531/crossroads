@@ -35,7 +35,7 @@ Since the “Landings Page” story was too large with an estimate of 20 story p
 6. **Please, see URL in #5.**
 
 7. **Sprint burndown chart.**
-<br/>Add picture
+<br/>![Sprint Burndown Chart](https://github.com/cscis71ateam/crossroads/blob/master/media/Crossroads%20Burndown%20for%20Sprint%201.png)
 
 8. **Daily Scrum**
 
@@ -149,7 +149,8 @@ Our primary stakeholder Ms. Linh attended our Sprint Review. Attached is a photo
 
 
 
-
+<br/>
+<br/>
 ## Project Part1:
 1. Our "Scrum Teams" group name in Canvas: **a-team**
 2. Our team name: **A-Team**. Our Slack channel in the course Slack team: **a-team**
