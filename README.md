@@ -99,9 +99,12 @@ The Development Team decided together with the Product Owner to break down the u
 
 10. **Mob Programming**
 <br/>Attached few photos of our team working together on both pair and mob programming.
+<br/>![Pair Programming](https://github.com/cscis71ateam/crossroads/blob/master/media/Pair%20Programming.png)
+<br/>![Mob Programming](https://github.com/cscis71ateam/crossroads/blob/master/media/Mob%20Programming.png)
 
 11. **There is evidence that you are building your product test-first. There are at least 10 unit tests in your test suite, and they all pass.**
 <br/>We conducted 10 unit tests which can be found in the test folder in the GitHub Repo for Crossroads. All tests passed.  
+<br/>![Unit Tests](https://github.com/cscis71ateam/crossroads/blob/master/media/Unit%20Test%20Screenshot.png)
 
 12. **Your team conducts a Sprint Review.**
 <br/>We conducted our sprint review having Linh, our real-life stakeholders participating. A photo is attached.
@@ -109,6 +112,8 @@ The Development Team decided together with the Product Owner to break down the u
 Our product increment is working software which can be viewed at: http://165.227.45.199:8989/
 
 Our primary stakeholder Ms. Linh attended our Sprint Review. Attached is a photo of Linh and the Scrum Team conducting the Sprint Review in person.
+<br/>![Sprint Review Picture](https://github.com/cscis71ateam/crossroads/blob/master/media/First%20Sprint%20Review%20at%20the%20Science%20Center.png)
+<br/>![Sprint Review Picture](https://github.com/cscis71ateam/crossroads/blob/master/media/First%20Sprint%20Review%20-%20After%20the%20Review%20with%20Our%20StakeHolder.png)
 
 **Feedback from Linh about functionality**
 <br/>We demoed the Product Increment to Lihn and received the following feedback on the Product Increment:
