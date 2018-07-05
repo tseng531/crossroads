@@ -7,14 +7,14 @@ An web application for the future/potential/returning summer students at Harvard
 ## Project Part2:
 
 1. **Forecast**
-	We forecasted to have 33 story points done by the first sprint. 
+<br/>We forecasted to have 33 story points done by the first sprint. 
 Sprint Goal: To have a landing page where the users can see what content is available on the site.
 
 2. **The rationale for our forecast.** 
-Since this our first sprint we did not have any data to follow a forecasting pattern like “Yesterday’s Weather”, so we made our estimation based on the task involved and our experience about the product and development tools & technologies we are using to develop the functionalities and how much time it can take.
+<br/>Since this our first sprint we did not have any data to follow a forecasting pattern like “Yesterday’s Weather”, so we made our estimation based on the task involved and our experience about the product and development tools & technologies we are using to develop the functionalities and how much time it can take.
 	
 3. **Sprint Planning**
-We pulled stories into our sprint backlog. Only Development Team members participated in this activity.
+<br/>We pulled stories into our sprint backlog. Only Development Team members participated in this activity.
 	Initially, the Development Team members agreed to pull the following two items into the Sprint:
 * Landing page - estimated to 20 story points
 * Menu Items - estimated to 13 story point
@@ -26,21 +26,21 @@ Since the “Landings Page” story was too large with an estimate of 20 story p
 * Menu Items - estimated to 13 story points
 
 4. **Our stories were not larger than half the size of the forecast.**
-Refer to #3
+<br/>Refer to #3
 
 5. **You decomposed stories into tasks. The tasks are clearly listed in your sprint backlog.**
-In Trello, we added a checklist to all Product Backlog items called tasks, where tasks are tracked.
-https://trello.com/b/RdosOtmY/a-team-kanban-board 
+<br/>In Trello, we added a checklist to all Product Backlog items called tasks, where tasks are tracked.
+<br/>https://trello.com/b/RdosOtmY/a-team-kanban-board 
 
 6. **Please, see URL in #5.**
 
 7. **Sprint burndown chart.**
-Add picture
+<br/>Add picture
 
 8. **Daily Scrum**
 
 **July 4, 2018**
-We held a physical Daily Scrum at 10 am time-boxed to 15 minutes, facilitated by our Scrum Master, Simon.
+<br/>We held a physical Daily Scrum at 10 am time-boxed to 15 minutes, facilitated by our Scrum Master, Simon.
 [INSERT PICTURE FROM DAILY SCRUM HERE]
 
 
@@ -98,20 +98,20 @@ The Development Team decided together with the Product Owner to break down the u
 9. **Please, see diagram in #7.**
 
 10. **Mob Programming**
-Attached few photos of our team working together on both pair and mob programming.
+<br/>Attached few photos of our team working together on both pair and mob programming.
 
 11. **There is evidence that you are building your product test-first. There are at least 10 unit tests in your test suite, and they all pass.**
-We conducted 10 unit tests which can be found in the test folder in the GitHub Repo for Crossroads. All tests passed.  
+<br/>We conducted 10 unit tests which can be found in the test folder in the GitHub Repo for Crossroads. All tests passed.  
 
 12. **Your team conducts a Sprint Review.**
-We conducted our sprint review having Linh, our real-life stakeholders participating. A photo is attached.
+<br/>We conducted our sprint review having Linh, our real-life stakeholders participating. A photo is attached.
 
 Our product increment is working software which can be viewed at: http://165.227.45.199:8989/
 
 Our primary stakeholder Ms. Linh attended our Sprint Review. Attached is a photo of Linh and the Scrum Team conducting the Sprint Review in person.
 
 **Feedback from Linh about functionality**
-We demoed the Product Increment to Lihn and received the following feedback on the Product Increment:
+<br/>We demoed the Product Increment to Lihn and received the following feedback on the Product Increment:
 * Knowing how to take the T 
 * Recommendations for dinner
 * Getting around campus - inside the buildings, how to find classrooms
@@ -135,7 +135,7 @@ We demoed the Product Increment to Lihn and received the following feedback on t
 	* Find a way to ensure reliability
 
 **Inspect and Adapt**
-After inspecting the Product Increment with our stakeholder, Linh, we adapted and refined the Product Backlog. We did the following changes:
+<br/>After inspecting the Product Increment with our stakeholder, Linh, we adapted and refined the Product Backlog. We did the following changes:
 * Refined User Story “Register User” by adding additional detail that for a user to be able to add blog posts one has to be a Harvard alumni.
 * Adding a new PBI “Social Event Subsection” and estimated it to 13 story points
 * Adding additional details to “Rating on Blog Posts”
